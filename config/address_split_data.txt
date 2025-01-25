@@ -1,0 +1,6 @@
+{"APARTMENT": " APT",
+"SUITE": " STE",
+"UNIT": " UNIT",
+"LOT": " LOT",
+"TRAILER": " TRL",
+"APT 2": " #"}
